@@ -1,0 +1,16 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Minecraft: Bedrock Edition - Annoying Villagers Addon Resource Pack",
+        "name": "Annoying Villagers Addon RP",
+        "uuid": "46baf0fc-bc01-4259-b950-db32f114b4df",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [{
+        "description": "Minecraft: Bedrock Edition - Annoying Villagers Addon Resource Pack",
+        "type": "resources",
+        "uuid": "3fcfe300-8387-4bcf-a260-b6f39d2c2726",
+        "version": [ 1, 0, 0 ]
+    }]
+}
