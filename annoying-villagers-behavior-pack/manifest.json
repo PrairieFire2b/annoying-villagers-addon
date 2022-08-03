@@ -1,0 +1,16 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Minecraft: Bedrock Edition - Annoying Villagers Addon Behavior Pack",
+        "name": "Annoying Villagers Addon BP",
+        "uuid": "722afb07-75a7-4948-8ed8-db9bfbb3e8e7",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [{
+        "description": "Minecraft: Bedrock Edition - Annoying Villagers Addon Behavior Pack",
+        "type": "data",
+        "uuid": "5049a9a9-d571-4667-ab01-5a92a94b73c3",
+        "version": [ 1, 0, 0 ]
+    }]
+}
