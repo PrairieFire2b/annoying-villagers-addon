@@ -12,5 +12,9 @@
         "type": "data",
         "uuid": "5049a9a9-d571-4667-ab01-5a92a94b73c3",
         "version": [ 1, 0, 0 ]
+    }],
+    "dependencies": [{
+        "uuid": "46baf0fc-bc01-4259-b950-db32f114b4df",
+        "version": [ 1, 0, 0 ]
     }]
 }
