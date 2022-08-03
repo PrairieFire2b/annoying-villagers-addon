@@ -12,5 +12,9 @@
         "type": "resources",
         "uuid": "3fcfe300-8387-4bcf-a260-b6f39d2c2726",
         "version": [ 1, 0, 0 ]
-    }]
+    }],
+    "metadata": {
+        "authors": ["PrairieFire2b"],
+        "url": "https://PrairieFire2b.github.io/pages/annoying-villagers-addon"
+    }
 }
